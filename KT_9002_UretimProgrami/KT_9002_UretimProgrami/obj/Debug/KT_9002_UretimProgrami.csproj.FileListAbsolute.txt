@@ -28,3 +28,13 @@ C:\Users\Mert\source\repos\KT_9002_UretimProgrami\KT_9002_UretimProgrami\KT_9002
 C:\Users\Mert\source\repos\KT_9002_UretimProgrami\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.csproj.CoreCompileInputs.cache
 C:\Users\Mert\source\repos\KT_9002_UretimProgrami\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.exe
 C:\Users\Mert\source\repos\KT_9002_UretimProgrami\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.pdb
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\bin\Debug\KT_9002_UretimProgrami.exe.config
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\bin\Debug\KT_9002_UretimProgrami.exe
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\bin\Debug\KT_9002_UretimProgrami.pdb
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.KT9002.resources
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.Properties.Resources.resources
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.exe
+C:\Users\Mert\source\repos\KeyTech-Electronic\KT9002-Uretim-Programi\KT_9002_UretimProgrami\KT_9002_UretimProgrami\obj\Debug\KT_9002_UretimProgrami.pdb

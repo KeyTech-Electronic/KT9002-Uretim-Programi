@@ -131,7 +131,6 @@ namespace KT_9002_UretimProgrami
             }
         }
 
-        private bool isDataReceivedHandlerAttached = false;
 
         private void SendCommandToComPort(string cmd)
         {
@@ -277,6 +276,9 @@ namespace KT_9002_UretimProgrami
             try
             {
                 ComPort.CloseConnection();
+                ComPort?.CloseConnection();
+                btnBaglan.Text = "Bağlan";
+                BaglantiDurumu = false;
             }
             catch (Exception ex)
             {
