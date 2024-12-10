@@ -227,7 +227,7 @@ namespace KT_9002_UretimProgrami
                 return;
             }
 
-            if (string.IsNullOrWhiteSpace(txtSeriNo.Text) || !int.TryParse(txtSeriNo.Text, out int seriNo) )
+            if (string.IsNullOrWhiteSpace(txtSeriNo.Text) || !long.TryParse(txtSeriNo.Text, out long seriNo) )
             {
                 MessageBox.Show("Geçerli bir seri numarası girin.", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -321,6 +321,12 @@ namespace KT_9002_UretimProgrami
         private void txtSeriNo_Enter(object sender, EventArgs e)
         {
             RemovePlaceholder(txtSeriNo);
+        }
+
+        private void KT9002_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            cmdProcess.Close();
+            Environment.Exit(0);
         }
     }
 }

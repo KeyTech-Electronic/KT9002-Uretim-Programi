@@ -251,6 +251,7 @@
             this.Controls.Add(this.cbComPort);
             this.Name = "KT9002";
             this.Text = "KT-9002 Üretim Programı";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.KT9002_FormClosing);
             this.Load += new System.EventHandler(this.KT9002_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
