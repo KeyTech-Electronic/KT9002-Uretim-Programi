@@ -322,7 +322,11 @@ namespace KT_9002_UretimProgrami
 
         private void txtSeriNo_Enter(object sender, EventArgs e)
         {
-            RemovePlaceholder(txtSeriNo);
+            if (txtSeriNo.Text == "Seri numarası 10 haneli olmalıdır")
+            {
+                RemovePlaceholder(txtSeriNo);
+            }
+
         }
 
         private void KT9002_FormClosing(object sender, FormClosingEventArgs e)
